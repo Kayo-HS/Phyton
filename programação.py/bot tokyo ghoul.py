@@ -17,10 +17,3 @@ async def ola(ctx:commands.context):
 
 
 
-
-
-
-
-bot.run("MTI3NjMxMTMyODY0MTc3Nzc3NA.G9jjM5.SOrj28-47J0cx5P-Ckqij17Zd1VECNoyx1cVtU")
-
-
