@@ -10,7 +10,7 @@ bot = commands.Bot(command_prefix=".", intents=permissoes)
 
 @bot.command()
 async def ola(ctx:commands.context):
-    await ctx.reply("O Pai ta on PORRA")
+    await ctx.reply("")
 
 
 
